@@ -14,3 +14,5 @@ Followed by ```npm start```
 
 Enjoy tic tac toe on your local browser!
 
+To Do:
+Embed tictactoe in my website: tietkenneth.github.io
